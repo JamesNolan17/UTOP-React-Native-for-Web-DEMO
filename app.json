@@ -1,0 +1,12 @@
+{
+  "name": "RNfW_sample",
+  "displayName": "RNfW_sample",
+  "expo": {
+    "name": "RNfW_sample",
+    "slug": "RNfW_sample",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
